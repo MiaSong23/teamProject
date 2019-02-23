@@ -3,7 +3,7 @@
  * Students can modify and extend to implement their game.
  * Modifiers, Ali Cemilcan Ciftarslan, Fansheng Meng, Andy Chou, Mia Song
  * Date, 2/23/2019
- * 1st new assingment 2nd revision
+
  */
 package ca.sheridancollege.project;
 
