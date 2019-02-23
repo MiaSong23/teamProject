@@ -1,7 +1,7 @@
 /**
  * SYST 17796 Project Winter 2019 Base code.
  * Students can modify and extend to implement their game.
- * Modifiers, Ali Cemilcan Ciftarslan, Fansheng Meng, Andy Chour, Mia Song
+ * Modifiers, Ali Cemilcan Ciftarslan, Fansheng Meng, Andy Chou, Mia Song
  * Date, 2/23/2019
 
  1st assignment
